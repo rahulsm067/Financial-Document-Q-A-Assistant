@@ -1,5 +1,5 @@
 
-# Financial Document Q&A Assistant (Clean, Submission-ready)
+# Financial Document Q&A Assistant
 
 This repository is a cleaned, modular implementation of the Financial Document Q&A Assistant assignment.
 It accepts PDF and Excel financial documents, extracts text and tables, builds embeddings, uses FAISS for retrieval,
