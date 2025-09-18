@@ -27,5 +27,5 @@ and queries a local Ollama Small Language Model for context-aware answers.
    ```bash
    streamlit run app.py
    ```
-6. Open http://localhost:8501, upload PDF/Excel files in the sidebar, click Process Documents, then ask questions.
+
 
